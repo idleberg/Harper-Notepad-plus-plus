@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <!--
 
-    Name:     Harper
-    Author:   Jan T. Sott
-    URL:      https://github.com/idleberg/Harper-Notepad-plus-plus
+    Name:       Harper
+    Author:     Jan T. Sott
+    License:    Creative Commons Attribution-ShareAlike 3.0 Unported License
+    URL:        https://github.com/idleberg/Harper-Notepad-plus-plus
 
 -->
 <NotepadPlus>
